@@ -18,10 +18,12 @@ export default {
     #tab-bar{
         display: flex;
         position: fixed;
+
         left: 0;
         right: 0;
-        bottom: 0;
+        bottom: -2px;
         height: 49px;
         box-shadow: 0 -4px 8px rgba(237, 237, 237, 0.8);
+        background-color: #fff;
     }
 </style>

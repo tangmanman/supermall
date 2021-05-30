@@ -4,6 +4,11 @@ html {
     overflow-y: scroll;
 }
 
+a {
+    text-decoration: none;
+    font-family: Helvetica;
+}
+
 body,
 dl,
 dt,
@@ -39,7 +44,6 @@ body {
     color: #666666;
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
-    padding: 0 10px;
     text-align: left;
 }
 
